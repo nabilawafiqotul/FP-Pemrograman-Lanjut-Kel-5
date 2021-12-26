@@ -6,7 +6,8 @@
   <li> KESAYANGAN NABILA NIH BOSS</li>
   <li> tes</li>
 </ul>
-<h3> Si-Pan merupakan satu diantara bentuk sistem pemesanan makanan online yang berfokus untuk menyediakan informasi terkait jenis produk makanan yang dijual di sebuah   tempat makan umum, harga produk makanan di sebuah tempat makan umum, dan pembelian produk makanan di sebuah tempat makan umum. Dengan demikian, sistem pemesanan makanan online dapat menjadi portal yang membantu masyarakat dalam mengakses informasi mengenai jenis, harga, dan pembelian produk makanan.</h3>
+<h2> Deskripsi Program </h2>
+<h4> Si-Pan merupakan satu diantara bentuk sistem pemesanan makanan online yang berfokus untuk menyediakan informasi terkait jenis produk makanan yang dijual di sebuah   tempat makan umum, harga produk makanan di sebuah tempat makan umum, dan pembelian produk makanan di sebuah tempat makan umum. Dengan demikian, sistem pemesanan makanan online dapat menjadi portal yang membantu masyarakat dalam mengakses informasi mengenai jenis, harga, dan pembelian produk makanan.</h4>
 <h2> Data Yang Digunakan: </h2>
 <ul>
   <li> Menampilkan Data Restoran </li>
