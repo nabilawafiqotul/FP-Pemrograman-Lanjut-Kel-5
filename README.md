@@ -16,7 +16,10 @@
   <li> Mencari Data Restoran </li>
   <li> Pembelian </li>
 </ul>
-  <h2>Metode yang diterapkan</h2>
-  
+<h2>Metode yang diterapkan</h2>
+<ul>
+  <li> isiin metode pls </li>
+ </ul>
+ 
 list menu yang ditawarkan
 cara penggunaan aplikasi
