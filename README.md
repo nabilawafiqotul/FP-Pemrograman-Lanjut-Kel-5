@@ -2,8 +2,8 @@
 <img src='https://github.com/DipikaSyaiban/FP-Pemrograman-Lanjut-Kel-5/blob/main/Photo/Menu%20Si-Pan.png' width='360px'>
 <h2>Nama Kelompok:</h2>
 <ul>
-  <li> Dipika Syaiban A 20081010226</li>
-  <li> KESAYANGAN NABILA NIH BOSS</li>
+  <li> Dipika Syaiban A     NPM : 20081010226 </li>
+  <li> Hanif Nur Fadlilah   NPM : 20081010231 </li>
   <li> tes</li>
 </ul>
 <h2> Deskripsi Program </h2>
