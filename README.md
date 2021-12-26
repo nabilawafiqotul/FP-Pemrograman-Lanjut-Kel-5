@@ -1,5 +1,5 @@
 <h1>Si-Pan</h1>
-<img src='https://drive.google.com/file/d/1ZbGZFucEQNGMAtpq7ZR7Bxc9nrfe2SqB/view?usp=sharing'>
+<img src='https://github.com/DipikaSyaiban/FP-Pemrograman-Lanjut-Kel-5/blob/main/Photo/Menu%20Si-Pan.png' width='360px'>
 <h2>Nama Kelompok:</h2>
 <ul>
   <li> Dipika Syaiban A 20081010226</li>
