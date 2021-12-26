@@ -16,7 +16,7 @@
   <li> Mencari Data Restoran </li>
   <li> Pembelian </li>
 </ul>
-<ol>
-  <liMetode yang diterapkan
+  <h2>Metode yang diterapkan</h2>
+  
 list menu yang ditawarkan
 cara penggunaan aplikasi
