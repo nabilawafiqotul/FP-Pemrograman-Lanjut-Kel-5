@@ -26,7 +26,9 @@
   <li> Metode ...... digunakan untuk mencari data  </li>
   <li> Metode ...... digunakan untuk mengurutkan data </li>
   <li> Metode ...... digunakan untuk memperbarui data </li>
- </ul>
+</ul>
  
-<h2>Metode yang diterapkan</h2>
-cara penggunaan aplikasi
+<h2>Cara Penggunaan Aplikasi</h2>
+<ul>
+  <li> Cara penggunaan </li>
+<ul>
