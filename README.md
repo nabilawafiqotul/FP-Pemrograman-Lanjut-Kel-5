@@ -20,7 +20,12 @@
 <h2>Metode yang diterapkan</h2>
 <ul>
   <li> isiin metode pls </li>
- </ul>
- 
-list menu yang ditawarkan
-cara penggunaan aplikasi
+</ul>
+<h2>Menu yang ditawarkan</h2>
+<ul>
+  <li> isiin menu </li>
+</ul>
+<h2>Cara penggunaan aplikasi</h2>
+<ul>
+  <li> isiin cara penggunaan </li>
+</ul>
