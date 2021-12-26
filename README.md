@@ -8,9 +8,14 @@
 </ul>
 <h3> Si-Pan merupakan satu diantara bentuk sistem pemesanan makanan online yang berfokus untuk menyediakan informasi terkait jenis produk makanan yang dijual di sebuah   tempat makan umum, harga produk makanan di sebuah tempat makan umum, dan pembelian produk makanan di sebuah tempat makan umum. Dengan demikian, sistem pemesanan makanan online dapat menjadi portal yang membantu masyarakat dalam mengakses informasi mengenai jenis, harga, dan pembelian produk makanan.</h3>
 <h2> Data Yang Digunakan: </h2>
-  <ol> Menampilkan Data Restoran </ol>
-  <ol> Memperbarui Data Restoran </ol>
-  <ol> 
-metode yang diterapkan
+<ul>
+  <li> Menampilkan Data Restoran </li>
+  <li> Memperbarui Data Restoran </li>
+  <li> Mengurutkan Data Restoran </li>
+  <li> Mencari Data Restoran </li>
+  <li> Pembelian </li>
+</ul>
+<ol>
+  <liMetode yang diterapkan
 list menu yang ditawarkan
 cara penggunaan aplikasi
