@@ -20,12 +20,13 @@
   <li> Mengurutkan Data Restoran </li>
   <li> Mencari Data Restoran </li>
   <li> Pembelian </li>
+  <li> Operasi File </li>
 </ul>
 
 <h2>Metode Yang Diterapkan</h2>
 <ul>
   <li> Metode Sequential Search digunakan untuk mencari data  </li>
-  <li> Metode Insertion Sort digunakan untuk mengurutkan data </li>
+  <li> Metode Insertion Sort (Ascending dan Descending) digunakan untuk mengurutkan data </li>
   <li> Metode Operasi File digunakan untuk menyimpan data secara external </li>
 </ul>
  
