@@ -6,7 +6,7 @@
   <li> Dipika Syaiban A     NPM : 20081010226 </li>
   <li> Hanif Nur Fadlilah   NPM : 20081010231 </li>
   <li> Farhan Jelang R      NPM : 20081010213 </li>
-  <li> tes</li>
+  <li> LeonHoss Hutagaol    NPM : 20081010215 </li>
 </ul>
 
 <h2> Deskripsi Program </h2>
