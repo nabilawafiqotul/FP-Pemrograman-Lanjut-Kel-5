@@ -30,7 +30,7 @@
 </ul>
  
 <h2>Cara Penggunaan Aplikasi</h2>
-<ul>
+<ol>
   <li> Cara penggunaan </li>
   <li> Memilih nomor 1 pada Menu </li>
   <li> Memilih menu yang Anda butuhkan </li>
@@ -38,4 +38,4 @@
   <li> Apabila Anda memilih menu nomor 3 maka Anda diminta untuk memilih pengurutan data sesuai keinginan Anda. Apabila Anda memilih pengurutan ascnding maka Anda diminta untuk menginputkan angka 1. sedangkan, untuk pengurutan descending, Anda diminta menginputkan angka 2 pada terminal. Setelah Anda memilih jenis pengurutan, maka user diminta menginputkan angka 1, agar data yang sudah diurutkan bisa tampil di terminal </li>
   <li> Apabila Anda memilih menu 4, maka Anda diminta untuk memilih berdasarkan apa pencarian datanya. Apabila Anda memilih pencarian berdasarkan kota maka Anda diminta menginputkan angka 1 pada terminal. Sedangkan, untuk Anda yang ingin memilih pencarian berdasarkan nama restoran, maka Anda menginputkan angka 2 pada terminal. </li>
   <li> Apabila Anda memilih menu 5, maka Anda diminta untuk menginputkan nama restoran yang ingin dituju, makanan yang ingin dibeli, jumlah makanan yang ingin dibeli, dan harga dari makanan yang Anda beli. Setelah itu, Anda diminta untuk menginputkan nominal, disebabkan Si-Pan telah menghitung pembayaran Anda secara otomatis. </li>
-<ul>
+</ol>
